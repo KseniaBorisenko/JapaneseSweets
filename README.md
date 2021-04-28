@@ -25,6 +25,6 @@
           <img src="pexels-photo-1259734.jpeg" alt="Данго" width="115" height="77">
           <img src="files/preview-2.jpg" alt="Сакура-моти" width="115" height="77">
           <img src="files/preview-3.jpg" alt="Мочи" width="115" height="77">
-        </p>
+        </p> 
   </body>
 </html>
